@@ -121,8 +121,6 @@ Limite padrão de upload: **10 MB**.
 
 
 
-## 📷 Demonstração
-
 ### Dashboard principal
 ![Dashboard principal](assets/screenshots/dashboard.png)
 
