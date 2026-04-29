@@ -119,19 +119,33 @@ Limite padrão de upload: **10 MB**.
 
 ## 🖼️ Prints do sistema
 
-Adicione imagens do sistema na pasta `docs/screenshots/` e exiba aqui no README:
 
 ```markdown
 ## 📷 Demonstração
 
-### Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
+### Dashboard principal
+![Dashboard principal](assets/screenshots/dashboard.png)
+
+### Dashboard 
+![Dashboard principal](assets/screenshots/dashboard1.png)
+
+### Menu Lateral
+![Dashboard principal](assets/screenshots/menu-lateral.png)
+
+### Cadastro de professores
+![Cadastro de professores](assets/screenshots/cadastro-professores.png)
 
 ### Registro de faltas
-![Registro de faltas](docs/screenshots/registro-faltas.png)
+![Registro de faltas](assets/screenshots/registro-faltas.png)
 
-### Relatórios
-![Relatórios](docs/screenshots/relatorios.png)
+### Justificativas
+![Justificativas](assets/screenshots/justificativas.png)
+
+### Relatórios em PDF
+![Relatórios em PDF](assets/screenshots/relatorio-pdf.png)
+
+### Relatórios em PDF por turma
+![Relatórios em PDF](assets/screenshots/relatorio-pdf2.png)
 ```
 
 ## 📌 melhorias em andamento
