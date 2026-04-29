@@ -120,7 +120,7 @@ Limite padrão de upload: **10 MB**.
 ## 🖼️ Prints do sistema
 
 
-```markdown
+
 ## 📷 Demonstração
 
 ### Dashboard principal
