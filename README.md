@@ -146,7 +146,7 @@ Limite padrão de upload: **10 MB**.
 ![Relatórios em PDF](assets/screenshots/relatorio-pdf2.png)
 ```
 
-## 📌 melhorias em andamento
+## 🚧 Melhorias em andamento
 
 - Implementar autenticação de usuários.
 - Criar níveis de acesso para secretaria, coordenação e administrador.
