@@ -4,7 +4,7 @@
 ![Flask](https://img.shields.io/badge/Flask-3.0.3-black)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey)
 ![ReportLab](https://img.shields.io/badge/ReportLab-PDF-red)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+
 
 Sistema web local desenvolvido em **Python + Flask** para auxiliar instituições de ensino no controle de faltas de professores, organização de horários, acompanhamento de justificativas e geração de relatórios administrativos em PDF.
 
