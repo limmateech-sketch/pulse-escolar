@@ -117,7 +117,7 @@ Limite padrão de upload: **10 MB**.
 
 ---
 
-## 🖼️ Sugestão de prints para o repositório
+## 🖼️ Prints do sistema
 
 Adicione imagens do sistema na pasta `docs/screenshots/` e exiba aqui no README:
 
@@ -134,7 +134,7 @@ Adicione imagens do sistema na pasta `docs/screenshots/` e exiba aqui no README:
 ![Relatórios](docs/screenshots/relatorios.png)
 ```
 
-## 📌 Possíveis melhorias futuras
+## 📌 melhorias em andamento
 
 - Implementar autenticação de usuários.
 - Criar níveis de acesso para secretaria, coordenação e administrador.
@@ -149,7 +149,7 @@ Adicione imagens do sistema na pasta `docs/screenshots/` e exiba aqui no README:
 
 ## 🎯 Aprendizados demonstrados neste projeto
 
-Este projeto demonstra conhecimentos práticos em:
+   Conhecimentos práticos em:
 
 - Desenvolvimento web com Flask.
 - Manipulação de banco de dados SQLite.
